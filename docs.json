@@ -14,22 +14,27 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Giới thiệu",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Đăng ký khám bệnh",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "DK_khambenh"
+            ]
+          },
+          {
+            "group": "QUản lý danh sách khám bệnh",
+            "pages": [
+              "QL_Danhsachkhambenh"
+            ]
+          },
+          {
+            "group": "Quản lý vật tư",
+            "pages": [
+              "QL_Vattu"
             ]
           }
         ]
